@@ -12,3 +12,5 @@ dvc init
 dvc add datagiven/winequality.csv
 
 create a file in src directory to read the parameters
+
+load data to source directory
