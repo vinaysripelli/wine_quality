@@ -1,6 +1,8 @@
 dvc
-dcv[gdrive]
+dvc[gdrive]
 sklearn
 argparse
 pandas
-yaml
+PyYAML
+pytest
+tox
