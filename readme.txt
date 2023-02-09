@@ -49,3 +49,8 @@ setup file is created
 --> cd..
 --> python 
 --> import src
+
+install jupyter notebook lab
+- pip install jupyterlab
+
+jupyter-lab notebooks/ -- to open the notebook
