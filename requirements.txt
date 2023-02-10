@@ -1,6 +1,6 @@
 dvc
 dvc[gdrive]
-sklearn
+scikit-learn
 argparse
 pandas
 PyYAML
