@@ -6,6 +6,6 @@ pandas
 PyYAML
 pytest
 tox
-flake8
+flake8~=4.0.1
 flask
 gunicorn
