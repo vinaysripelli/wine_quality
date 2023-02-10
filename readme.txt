@@ -54,3 +54,12 @@ install jupyter notebook lab
 - pip install jupyterlab
 
 jupyter-lab notebooks/ -- to open the notebook
+
+In test case testing the function name should start with 
+    -- def test_abc()
+    -- def test_def()
+
+make multiple folders
+    mkdir -p  prediction_service/model  
+    app.py
+    webapp
